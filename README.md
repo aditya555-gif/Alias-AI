@@ -6,16 +6,15 @@ Uncensored offline desktop AI assistant built with Python, Flet and Ollama.
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flet](https://img.shields.io/badge/Flet-Desktop%20UI-00A4EF?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Model](https://img.shields.io/badge/Dolphin%20Phi-2.7B-8A2BE2?style=for-the-badge)
-![Offline](https://img.shields.io/badge/Works-Offline-2ECC71?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-FF9800?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-00C853?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-FF6D00?style=for-the-badge)
+![Dolphin Phi](https://img.shields.io/badge/Dolphin%20Phi-9C27B0?style=for-the-badge)
+![Offline](https://img.shields.io/badge/Offline-00BCD4?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-1976D2?style=for-the-badge&logo=windows&logoColor=white)
+![Completed](https://img.shields.io/badge/Completed-E91E63?style=for-the-badge)
 
 </p>
-
 ---
 
 ## About
