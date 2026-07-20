@@ -6,11 +6,13 @@ Uncensored offline desktop AI assistant built with Python, Flet and Ollama.
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Flet](https://img.shields.io/badge/Flet-Desktop_App-0099FF?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge)
-![Offline](https://img.shields.io/badge/Works-Offline-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-Desktop%20UI-00A4EF?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Model](https://img.shields.io/badge/Dolphin%20Phi-2.7B-8A2BE2?style=for-the-badge)
+![Offline](https://img.shields.io/badge/Works-Offline-2ECC71?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-FF9800?style=for-the-badge)
 
 </p>
 
@@ -127,7 +129,7 @@ To clear the chat history just click on the owl icon
 - Standalone executable
 
 ---
----
+
 
 ## 🤝 Contributing
 
