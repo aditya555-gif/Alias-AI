@@ -82,8 +82,7 @@ python main.py
 
 ## 📷 Screenshots
 
-![image alt]([images/Model_Response.png](https://github.com/aditya555-gif/Alias-AI/blob/cf3da3cf4d8493d406a41d588369fcce4b09d417/Images/Model_Response.png))
-
+![Model Response](images/Model_Response.png)
 ---
 
 ## Current Limitations
