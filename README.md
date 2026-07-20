@@ -5,17 +5,6 @@ Uncensored offline desktop AI assistant built with Python, Flet and Ollama.
 </p>
 
 <p align="center">
-  <img src="alias_logo.png" width="180">
-</p>
-
-<h1 align="center">Alias AI</h1>
-
-<p align="center">
-An offline desktop AI assistant built with Python, Flet and Ollama.
-</p>
-
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-00C853?style=for-the-badge)
