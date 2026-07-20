@@ -83,6 +83,8 @@ python main.py
 ## 📷 Screenshots
 
 ![Model Response](Images/Model_Response.png)
+
+To clear the chat history just click on the owl icon 
 ---
 
 ## Current Limitations
