@@ -34,7 +34,6 @@ The primary goal of this project was to learn how desktop applications can integ
 - 🔒 Conversations stay on your local machine
 - 💬 Highly unrestricted responses (behavior depends on the selected local model)
 - 🗑️ No chat history is stored
-- 🖱️ Clicking the **Alias logo** in the top-left corner immediately clears the current conversation from the interface
 - ⚡ Lightweight and simple interface
 
 ---
@@ -47,6 +46,23 @@ The primary goal of this project was to learn how desktop applications can integ
 - [Dolphin Phi 2.7B](https://ollama.com/library/dolphin-phi:2.7b)
 
 ---
+## 🧠 Model Selection
+
+Alias AI uses **Dolphin Phi 2.7B** through **Ollama**.
+
+I chose this model because I wanted the application to run smoothly on low-end systems while still providing good conversational quality. Another reason for choosing this model was its relatively unrestricted behavior compared to many other models, making it better suited for users who prefer fewer built-in response restrictions.
+
+## 💻 Minimum System Requirements
+
+The following requirements are for running the **Dolphin Phi 2.7B** model locally.
+
+| Component | Minimum Requirement |
+|-----------|---------------------|
+| **RAM** | 4 GB (8 GB recommended) |
+| **Storage** | 5 GB free disk space |
+| **CPU** | Modern multi-core Intel, AMD, or Apple Silicon processor |
+| **GPU** | Dedicated GPU not required |
+| **Internet** | Required only to install Ollama and download the model |
 
 ## Installation
 
