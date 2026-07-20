@@ -44,7 +44,7 @@ The primary goal of this project was to learn how desktop applications can integ
 - Python
 - Flet
 - Ollama
-- Dolphin Phi 2.7B
+- [Dolphin Phi 2.7B](https://ollama.com/library/dolphin-phi:2.7b)
 
 ---
 
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 ### Install Ollama
 
-Download and install Ollama.
+Download and install [Ollama](https://ollama.com/download/windows)
 
 ### Pull the model
 
@@ -88,8 +88,8 @@ To clear the chat history just click on the owl icon
 
 ## Current Limitations
 
-- No response streaming
-- RAG was planned but never implemented
+- I have not added streaming responses yet
+- RAG was planned but not implemented because I shifted my focus to Java backend development
 - Supports one local model at a time
 
 ---
