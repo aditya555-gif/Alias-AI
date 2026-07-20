@@ -1,7 +1,7 @@
 # <p align="center">Alias AI</p>
 
 <p align="center">
-An offline desktop AI assistant built with Python, Flet and Ollama.
+Uncensored offline desktop AI assistant built with Python, Flet and Ollama.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ An offline desktop AI assistant built with Python, Flet and Ollama.
 
 ---
 
-## 📖 About
+## About
 
 Alias AI is an offline desktop AI assistant built using **Python**, **Flet**, and **Ollama**.
 
@@ -26,7 +26,7 @@ The primary goal of this project was to learn how desktop applications can integ
 
 ---
 
-## ✨ Features
+## Features
 
 - 🖥️ Desktop application built with Flet
 - 🧠 Powered by Dolphin Phi 2.7B through Ollama
@@ -39,7 +39,7 @@ The primary goal of this project was to learn how desktop applications can integ
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Flet
@@ -48,12 +48,12 @@ The primary goal of this project was to learn how desktop applications can integ
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Alias-AI.git
+git clone https://github.com/aditya555-gif/Alias-AI.git
 ```
 
 ### Install dependencies
@@ -69,7 +69,7 @@ Download and install Ollama.
 ### Pull the model
 
 ```bash
-ollama pull dolphin-phi
+ollama pull dolphin-phi:2.7b
 ```
 
 ### Run
@@ -86,7 +86,7 @@ python main.py
 
 ---
 
-## ⚠️ Current Limitations
+## Current Limitations
 
 - No response streaming
 - RAG was planned but never implemented
@@ -94,7 +94,7 @@ python main.py
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Chat history is intentionally **not saved**.
 - Clearing the chat removes the conversation from the application interface.
@@ -102,7 +102,7 @@ python main.py
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 - PDF RAG
 - Response streaming
@@ -115,3 +115,4 @@ python main.py
 ## 📄 License
 
 This project is shared for educational and portfolio purposes.
+feel free to use, modify, and distribute.
