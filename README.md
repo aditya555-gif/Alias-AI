@@ -1,4 +1,4 @@
-# <p align="center">🤖 Alias AI</p>
+# <p align="center">Alias AI</p>
 
 <p align="center">
 An offline desktop AI assistant built with Python, Flet and Ollama.
