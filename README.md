@@ -127,8 +127,17 @@ To clear the chat history just click on the owl icon
 - Standalone executable
 
 ---
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and bug reports are always welcome.
+
+If you have ideas for improving Alias AI or would like to implement features such as RAG, streaming responses, or UI enhancements, feel free to open an issue or submit a pull request.
+
+
+---
 
 ## 📄 License
 
 This project is shared for educational and portfolio purposes.
-feel free to use, modify, and distribute.
