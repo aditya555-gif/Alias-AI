@@ -82,7 +82,7 @@ python main.py
 
 ## 📷 Screenshots
 
-*(Add screenshots here)*
+![Home Screen](images/Model Response.png)
 
 ---
 
